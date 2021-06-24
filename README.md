@@ -12,7 +12,7 @@
 
 [![Spotify](https://spotifygit.vercel.app/api/spotify)](https://open.spotify.com/user/31tpqnoarhpaxxz7226elu4w4muy)
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats-itsflash10.vercel.app/api?username=itsflash10&show_icons=true&locale=en&theme=radical" alt="itsflash10" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats-itsflash10.vercel.app/api?username=itsflash10&show_icons=true&locale=en&theme=radical" alt="itsflash10" /></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=itsflash10&show_icons=true&locale=en&layout=compact&theme=radical" alt="itsflash10" /></p>
 
