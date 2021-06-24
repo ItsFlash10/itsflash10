@@ -6,6 +6,8 @@
 
 - 📫 How to reach me **satyamsworld@gmail.com**
 
+- 🌱 I’m currently learning everything xD 
+
 - ⚡ Fun fact **Love music and sports**
 
 <h3 align="left">Spotify Playing 🎧</h3>
