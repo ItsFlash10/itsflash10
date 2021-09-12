@@ -10,6 +10,8 @@
 
 - 📫 How to reach me **satyamsworld@gmail.com**
 
+- 💻 Check out some of my pojects : **[Keeper-App](https://keeper-app-itsflash10.vercel.app/), [Docket-App](https://docket-app-one.vercel.app/), [JIRA-App](https://jira-app.vercel.app/), [Crypto-Tracker](https://github.com/ItsFlash10/CryptoTracker).**
+
 <h3 align="left">Spotify Playing 🎧</h3>
 
 [![Spotify](https://spotifygit.vercel.app/api/spotify)](https://open.spotify.com/user/31tpqnoarhpaxxz7226elu4w4muy)
