@@ -17,18 +17,9 @@
 [![Spotify](https://spotifygit.vercel.app/api/spotify)](https://open.spotify.com/user/31tpqnoarhpaxxz7226elu4w4muy)
 
 ---
-<p><img align="center" src="https://github-readme-stats-itsflash10.vercel.app/api?username=itsflash10&show_icons=true&locale=en&theme=radical" alt="itsflash10" /></p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=itsflash10&show_icons=true&locale=en&layout=compact&theme=radical" alt="itsflash10" /></p>
-
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
+<p><img align="left" src="https://github-readme-stats-itsflash10.vercel.app/api?username=itsflash10&show_icons=true&locale=en&theme=radical" alt="itsflash10" width="470px" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ItsFlash10&theme=radical" alt="itsflash10" width="470px" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=itsflash10&show_icons=true&locale=en&layout=compact&theme=radical" alt="itsflash10" width="1000px" height="150px" /></p>
 
 ---
 
