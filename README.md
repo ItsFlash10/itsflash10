@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itsflash10&label=Profile%20views&color=0e75b6&style=flat" alt="itsflash10" /> </p>
 
-<!-- - 🌱 I’m currently learning everything xD  -->
+- 🌱 I’m currently learning everything xD 
 
 - ⚡ Fun fact **Love music and sports**
 
