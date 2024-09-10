@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px" height="30px"> I'm Satyam</h1>
 <h3 align="center">A passionate developer from India who Always try to TRY :)</h3>
 
@@ -6,21 +5,25 @@
 
 - 🌐 New to Open Source
 
-- 🌱 I’m currently learning everything xD 
+- 🌱 I’m currently learning everything xD
 
-- ⚡ Fun fact **Love music and sports**
+- ⚡ Fun fact **love tech, music and sports**
 
-- 📫 How to reach me **satyamsworld@gmail.com**
+- 📫 How to reach me **satyamsflash@gmail.com**, **satyamsworld@gmail.com**
 
-- 💻 Check out some of my pojects : **[Keeper-App](https://keeper-app-itsflash10.vercel.app/), [Docket-App](https://docket-app-one.vercel.app/), [JIRA-App](https://jira-app.vercel.app/), [Crypto-Tracker](https://github.com/ItsFlash10/CryptoTracker).**
+- 💻 Check out some of my pojects : **[100xQuests](https://aptitude-test-web.vercel.app/), [ChainRent](https://chain-rent.vercel.app/), [Portfolio](https://itsflash10.vercel.app/), [Crypto-Tracker](https://github.com/ItsFlash10/CryptoTracker).**
 
 <h3 align="left">Spotify Playing 🎧</h3>
 
 [![Spotify](https://spotifygit.vercel.app/api/spotify)](https://open.spotify.com/user/31tpqnoarhpaxxz7226elu4w4muy)
 
 ---
-  <img src="https://github-readme-stats-itsflash10.vercel.app/api?username=itsflash10&show_icons=true&locale=en&theme=radical&hide_border=true" alt="itsflash10" width="100%"/>&nbsp;&nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ItsFlash10&theme=radical&hide_border=true" alt="itsflash10" width="100%" />
+
+<div style="display: flex; justify-content: center; gap: 10px; padding: 0px 20px;">
+  <img src="https://github-readme-stats-itsflash10.vercel.app/api?username=itsflash10&show_icons=true&locale=en&theme=radical&hide_border=true" alt="itsflash10" width="50%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ItsFlash10&theme=radical&hide_border=true" alt="itsflash10" width="50%" />
+</div>
+
 ---
 
 <h3 align="left">Languages and Tools:</h3>
@@ -99,11 +102,11 @@
 ---
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/satyam-shubham-8a4805179" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="satyam-shubham-8a4805179" height="30" width="40" /></a>
-<a href="https://instagram.com/satyam_1007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="satyam_1007" height="30" width="40" /></a>
-<a href="https://fb.com/satyamsworld" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="satyamsworld" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/itsflash/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="itsflash/profile" height="30" width="40" /></a>
-<a href="https://discord.gg/Zh3uAeQU" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="itsflash#2675" height="30" width="40" /></a>
+<p align="left" style="display: flex; gap: 10px;">
+<a href="https://x.com/itsflash_10"><img align="center" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/x-social-media-logo-icon.png" alt="itsflash#2675" height="30" /></a>
+<a href="https://linkedin.com/in/satyam-shubham-8a4805179" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="satyam-shubham-8a4805179" height="30" /></a>
+<a href="https://discord.gg/Zh3uAeQU" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="itsflash#2675" height="30"/></a>
+<a href="https://instagram.com/satyam_1007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="satyam_1007" height="30"/></a>
+<a href="https://fb.com/satyamsworld" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="satyamsworld" height="30"/></a>
+<a href="https://auth.geeksforgeeks.org/user/itsflash/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="itsflash/profile" height="30"/></a>
 </p>
-
