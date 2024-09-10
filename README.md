@@ -19,12 +19,8 @@
 [![Spotify](https://spotifygit.vercel.app/api/spotify)](https://open.spotify.com/user/31tpqnoarhpaxxz7226elu4w4muy)
 
 ---
-<p align="center">
-  <img src="https://github-readme-stats-itsflash10.vercel.app/api?username=itsflash10&show_icons=true&locale=en&theme=radical&hide_border=true" alt="itsflash10" width="48%"/>&nbsp;&nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ItsFlash10&theme=radical&hide_border=true" alt="itsflash10" width="48%" /><br />
-<!--   <img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs?username=itsflash10&show_icons=true&locale=en&layout=compact&theme=radical" alt="itsflash10" /> -->
-</p>
-
+  <img src="https://github-readme-stats-itsflash10.vercel.app/api?username=itsflash10&show_icons=true&locale=en&theme=radical&hide_border=true" alt="itsflash10" width="100%"/>&nbsp;&nbsp;
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ItsFlash10&theme=radical&hide_border=true" alt="itsflash10" width="100%" />
 ---
 
 <h3 align="left">Languages and Tools:</h3>
