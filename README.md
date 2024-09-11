@@ -19,9 +19,14 @@
 
 ---
 
-<div style="display: flex; justify-content: center; gap: 10px; padding: 0px 20px;">
-  <img src="https://github-readme-stats-itsflash10.vercel.app/api?username=itsflash10&show_icons=true&locale=en&theme=radical&hide_border=true" alt="itsflash10" width="50%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ItsFlash10&theme=radical&hide_border=true" alt="itsflash10" width="50%" />
+<div class="container">
+<a style="width: 50%;">
+  <img src="https://github-readme-stats-itsflash10.vercel.app/api?username=itsflash10&show_icons=true&locale=en&theme=radical&hide_border=true" alt="itsflash10"/>
+</a>
+&nbsp;&nbsp;
+<a style="width: 50%;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ItsFlash10&theme=radical&hide_border=true" alt="itsflash10"/>
+</a>
 </div>
 
 ---
@@ -110,3 +115,13 @@
 <a href="https://fb.com/satyamsworld" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="satyamsworld" height="30"/></a>
 <a href="https://auth.geeksforgeeks.org/user/itsflash/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="itsflash/profile" height="30"/></a>
 </p>
+
+<style>
+.container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    padding: 0px 20px;
+}
+</style>
