@@ -103,5 +103,4 @@
 <a href="https://discord.gg/Zh3uAeQU" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="itsflash#2675" height="30"/></a>
 <a href="https://instagram.com/satyam_1007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="satyam_1007" height="30"/></a>
 <a href="https://fb.com/satyamsworld" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="satyamsworld" height="30"/></a>
-<a href="https://auth.geeksforgeeks.org/user/itsflash/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="itsflash/profile" height="30"/></a>
 </p>
