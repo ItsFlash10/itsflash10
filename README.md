@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **satyamsflash@gmail.com**, **satyamsworld@gmail.com**
 
-- 💻 Check out some of my pojects : **[100xQuests](https://aptitude-test-web.vercel.app/), [ChainRent](https://chain-rent.vercel.app/), [Portfolio](https://itsflash10.vercel.app/), [Crypto-Tracker](https://github.com/ItsFlash10/CryptoTracker).**
+- 💻 Check out some of my pojects : **[100xQuests](https://aptitude-test-web.vercel.app/), [ChainRent](https://chain-rent.vercel.app/), [Portfolio](https://itsflash10.dev/), [Crypto-Tracker](https://github.com/ItsFlash10/CryptoTracker).**
 
 <h3 align="left">Spotify Playing 🎧</h3>
 
