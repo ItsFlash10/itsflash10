@@ -3,7 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itsflash10&label=Profile%20views&color=0e75b6&style=flat" alt="itsflash10" /> </p>
 
-- 🌐 New to Open Source
+- 🌐 Open Source
+
+- 📱 React Native
 
 - 🌱 I’m currently learning everything xD
 
@@ -11,7 +13,7 @@
 
 - 📫 How to reach me **satyamsflash@gmail.com**, **satyamsworld@gmail.com**
 
-- 💻 Check out some of my pojects : **[100xQuests](https://aptitude-test-web.vercel.app/), [ChainRent](https://chain-rent.vercel.app/), [Portfolio](https://itsflash10.dev/), [Crypto-Tracker](https://github.com/ItsFlash10/CryptoTracker).**
+- 💻 Check out some of my pojects : **[100xQuests](https://aptitude-test-web.vercel.app/), [ChainRent](https://chain-rent.vercel.app/), [Portfolio](https://itsflash10.dev/), [Crypto-Tracker](https://github.com/ItsFlash10/CryptoTracker)**
 
 <h3 align="left">Spotify Playing 🎧</h3>
 
